@@ -1,3 +1,3 @@
 # apna-demo
 This is my first git repo
-Author - Subhajit Samanta
+Author - Subhajit (123g)
